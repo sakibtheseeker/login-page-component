@@ -1,14 +1,9 @@
-/* food ordering webpage -> css box model, css animations, css flexbox */
-/* the class name always starts with . */
+
 .red{
     color: red;
 }
 
-/* css box model
-border -> border-width, border-style, border-color
-padding
-margin
-*/
+
 .main{
     width: 400px;
     padding: 30px;
