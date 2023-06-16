@@ -1,7 +1,7 @@
-# login-page-component
+# login-page-component-with-captcha
 
 ## Preview
 <img src="assets/Screenshot 2023-06-15 203052.png">
 
 ## About
-Will be added soon !
+This is a simple login page component completely made by myself which can be used as the login page for your website with the necessary changes you want to make according to your requirements. It comprises basic <b>HTML, CSS & JAVASCRIPT </b> code. It contains the <b>captcha generator</b> which will be refreshed and come up with a new captcha everytime.
