@@ -12,8 +12,6 @@
     border-radius: 8px;
 }
 
-
-
 .card2-img{
     width: 10 px;
     height:10px;
@@ -22,44 +20,11 @@
 
 }
 
-
-
-
-
-
-
-
 .flex{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
-
-.demo{
-    width:100px;
-    height:100px;
-    background-color: tomato;
-
-    animation-name: demo-animation;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    /* animation-fill-mode: forwards; */
-}
-
-/* destination -> @keyframes */
-
-@keyframes demo-animation{
-    100%{
-        transform: rotate(360deg);
-        margin-left: 1100px;
-        border-radius: 50%;
-    }
-}
-
-
-
-
 
 /* Login Page */
 
@@ -90,27 +55,6 @@
     width: 100%;
    
 }
-
-.card5{
-    justify-content: center;
-    align-items: center;
-    margin-left: 120px;
-}
-
-/* Signup Page */
-.signupcard{
-    box-shadow: 0px 10px 34px -15px rgb(0 0 0 / 24%);
-    margin: 50px 50px 50px 330px;
-    border-radius: 18px;
-    padding: 50px;
-    width: 700px;
-    height: auto;
-    justify-content: center;
-    background-color:white	;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-
-}
-
 
   .wrapper {
     display: flex;
